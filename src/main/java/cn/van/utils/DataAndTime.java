@@ -1,6 +1,6 @@
 /**
  * Copyright (C), 2015-2019, XXX有限公司
- * FileName: DataAndTimeUtils
+ * FileName: DataAndTime
  * Author:   zhangfan
  * Date:     2019-02-25 15:49
  * Description: Jdk 1.8 时间和日期Api
@@ -23,7 +23,7 @@ import java.time.temporal.ChronoUnit;
  * @create 2019-02-25
  * @since 1.0.0
  */
-public class DataAndTimeUtils {
+public class DataAndTime {
 
     public static void main(String[] args) {
 
@@ -33,6 +33,7 @@ public class DataAndTimeUtils {
         operateTime();
         periodicEvent();
         equalTime();
+        getMilliSecond();
     }
 
 
@@ -64,6 +65,17 @@ public class DataAndTimeUtils {
             System.out.println("今年是闰年！");
         }
     }
+
+    // LocalDateTime 获取毫秒数
+    public static void getMilliSecond() {
+        //获取秒数
+        Long second = LocalDateTime.now().toEpochSecond(ZoneOffset.of("+8"));
+        System.out.println(second);
+        //获取毫秒数
+        Long milliSecond = LocalDateTime.now().toInstant(ZoneOffset.of("+8")).toEpochMilli();
+        System.out.println(milliSecond);
+    }
+
     // 字符串转成时间
     public static void getFormatTime() {
         // 内置的格式化工具
@@ -156,7 +168,5 @@ public class DataAndTimeUtils {
         YearMonth creditCardExpiry = YearMonth.of(2018, Month.FEBRUARY); // 指定时间
         System.out.printf("Your credit card expires on %s %n", creditCardExpiry);
     }
-
-
 
 }
