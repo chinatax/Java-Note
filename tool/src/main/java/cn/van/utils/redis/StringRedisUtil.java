@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  *
  * @author: Van
  * Date:     2019-11-07 17:05
- * Description: Redis 的 String 工具类
+ * Description: Redis 工具类 for String
  * Version： V1.0
  */
 @Component
