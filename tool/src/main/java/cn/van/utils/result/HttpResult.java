@@ -16,7 +16,6 @@ import java.io.Serializable;
  */
 @Data
 public class HttpResult<T> implements Serializable {
-
     /**
      * 成功标示
      */
@@ -82,7 +81,7 @@ public class HttpResult<T> implements Serializable {
      * @return
      */
     public static<T> HttpResult<T> success(T data){
-        return new HttpResult<T>(data);
+        return new HttpResult(data);
     }
 
     /**
@@ -95,13 +94,22 @@ public class HttpResult<T> implements Serializable {
     }
     /**
      * 失败的时候调用
+     * @param msg
+     * @param <T>
+     * @return
+     */
+    public static<T> HttpResult<T> failure(String msg){
+        return new HttpResult(ResultCode.DEFAULT_ERROR.getCode(), msg);
+    }
+    /**
+     * 失败的时候调用
      * @param code
      * @param msg
      * @param <T>
      * @return
      */
     public static<T> HttpResult<T> failure(int code, String msg){
-        return  new HttpResult<T>(code,msg);
+        return  new HttpResult(code,msg);
     }
 
     /**
@@ -111,7 +119,7 @@ public class HttpResult<T> implements Serializable {
      * @return
      */
     public static<T> HttpResult<T> failure(ResultCode resultCode){
-        return  new HttpResult<T>(resultCode);
+        return  new HttpResult(resultCode);
     }
 
 }

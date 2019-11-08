@@ -12,17 +12,18 @@ package cn.van.utils.result;
  */
 public enum  ResultCode {
     /*** 通用部分 100 - 599***/
-
     // 成功请求
     SUCCESS(200, "successful"),
     // 重定向
     REDIRECT(301, "redirect"),
+    // 认证失败
+    TOKEN_ERROR(401, "token error"),
     // 资源未找到
     NOT_FOUND(404, "not found"),
     // 服务器错误
-    SERVER_ERROR(500,"server error"),
+    SERVER_ERROR(500,"Internal Server Error"),
 
-
+    DEFAULT_ERROR(-1,"common error")
     /*** 这里可以根据不同模块用不同的区级分开错误码，例如:  ***/
 
     // 1000～1999 区间表示用户模块错误
