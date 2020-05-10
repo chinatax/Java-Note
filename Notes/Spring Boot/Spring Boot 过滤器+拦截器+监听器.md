@@ -352,7 +352,7 @@ cn.van.fil.interceptor.MyInterceptor     : 【MyInterceptor】[/getUserCount]调
 
 ### 5.4 减少在线人数
 
-[http://localhost:8080/addSession](http://localhost:8080/addSession)
+[http://localhost:8080/removeSession](http://localhost:8080/removeSession)
 
 ## 六、总结
 
