@@ -1,8 +1,20 @@
 <h1 align="center"><a href="#" target="_blank">Java-Note</a></h1>
 
+<img src="https://img.shields.io/badge/language-java-gree.svg" />
+![license](https://flat.badgen.net/github/license/vanDusty/SpringBoot-Home)
+![last commit](https://flat.badgen.net/github/last-commit/vanDusty/SpringBoot-Home)
+![stars](https://flat.badgen.net/github/stars/vanDusty/SpringBoot-Home)
+![forks](https://flat.badgen.net/github/forks/vanDusty/SpringBoot-Home)
+
 > 本仓库为【Java 知识笔记本】力求打造完整实用的 Java 工程师知识指南！期待大家共同建设！
 
 ## [【文章目录】](文章目录.md)
+
+## 【涉及代码仓库】
+
+1. [【Spring Boot】 系列](https://github.com/vanDusty/SpringBoot-Home)
+1. [【Spring】 系列](https://github.com/vanDusty/Spring-Home)
+1. [【Mybatis】 系列](https://github.com/vanDusty/Mybatis-Home)
 
 ## 申明
 
