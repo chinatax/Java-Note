@@ -1,6 +1,6 @@
 <h1 align="center"><a href="#" target="_blank">Java-Note</a></h1>
 
-<img src="https://img.shields.io/badge/language-java-gree.svg" />
+<img src="https://img.shields.io/badge/language-java-gree.svg"/>
 ![license](https://flat.badgen.net/github/license/vanDusty/SpringBoot-Home)
 ![last commit](https://flat.badgen.net/github/last-commit/vanDusty/SpringBoot-Home)
 ![stars](https://flat.badgen.net/github/stars/vanDusty/SpringBoot-Home)
