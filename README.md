@@ -1,10 +1,10 @@
 <h1 align="center"><a href="#" target="_blank">Java-Note</a></h1>
 
 <img src="https://img.shields.io/badge/language-java-gree.svg"/>
-![license](https://flat.badgen.net/github/license/vanDusty/SpringBoot-Home)
-![last commit](https://flat.badgen.net/github/last-commit/vanDusty/SpringBoot-Home)
-![stars](https://flat.badgen.net/github/stars/vanDusty/SpringBoot-Home)
-![forks](https://flat.badgen.net/github/forks/vanDusty/SpringBoot-Home)
+![license](https://flat.badgen.net/github/license/vanDusty/Java-Note)
+![last commit](https://flat.badgen.net/github/last-commit/vanDusty/Java-Note)
+![stars](https://flat.badgen.net/github/stars/vanDusty/Java-Note)
+![forks](https://flat.badgen.net/github/forks/vanDusty/Java-Note)
 
 > 本仓库为【Java 知识笔记本】力求打造完整实用的 Java 工程师知识指南！期待大家共同建设！
 
