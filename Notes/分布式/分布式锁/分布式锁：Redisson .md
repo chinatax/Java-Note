@@ -217,6 +217,7 @@ public HttpResult saleGoodsLock(Long goodId) {
 
 > 为了便于测试，使用`Swagger`， 接口中使用多线程，模拟十个用户抢购商品。
 
+Swagger 地址：[http://localhost:8081/swagger-ui.html](http://localhost:8081/swagger-ui.html)
 #### 3.4.1 先创建一个线程池
 
 ```java
