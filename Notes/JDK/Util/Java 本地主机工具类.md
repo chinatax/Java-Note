@@ -1,4 +1,4 @@
-# Java 获取本地IP地址和主机名
+# Java 本地主机工具类
 
 
 > 拿到本机 `IP`不是一件困难的事，但是拿到正确的就比较难了。
@@ -236,3 +236,7 @@ public class LocalHostUtil {
     }
 }
 ```
+
+[【Github 示例代码】](https://github.com/vanDusty/jdk/blob/master/JDK-Tool/src/main/java/cn/van/jdk/tool/net/LocalHostUtil.java)
+
+更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。
