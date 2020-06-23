@@ -9,6 +9,7 @@
 1. [Java 时间日期API之 LocalDate](/Notes/JDK/Date/Java%20时间日期API之%20LocalDate.md)
 1. [ThreadLocal 入门篇](/Notes/JDK/Object/ThreadLocal%20入门篇.md)
 1. [函数式编程之 Lambda](/Notes/JDK/Lambda/函数式编程之%20Lambda.md)
+1. [Java 字符串拼接](/Notes/JDK/String/Java%20字符串拼接.md)
 1. [Java 科学运算之 BigDecimal](/Notes/JDK/Number/Java%20科学运算之BigDecimal.md)
 1. [Java 坐标系转换工具](/Notes/JDK/Number/Java%20坐标系转换工具.md)
 1. [Java 正则表达式详解](/Notes/JDK/Verify/Java%20正则表达式详解.md)
