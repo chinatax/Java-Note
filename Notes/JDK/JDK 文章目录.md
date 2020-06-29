@@ -13,6 +13,7 @@
 1. [Java 科学运算之 BigDecimal](/Notes/JDK/Number/Java%20科学运算之BigDecimal.md)
 1. [Java 坐标系转换工具](/Notes/JDK/Number/Java%20坐标系转换工具.md)
 1. [Java 正则表达式详解](/Notes/JDK/Verify/Java%20正则表达式详解.md)
+1. [Java 加密算法简介](/Notes/JDK/Util/Java%20加密算法简介.md)
 
 
 > 整理不易，如果觉得写得还行，点个✨，谢谢大佬！
