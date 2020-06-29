@@ -18,5 +18,6 @@
 ### 【JDK 并发】
 
 1. [【JUC 并发】CountDownLatch](/Notes/JDK/JUC/【JUC%20并发】CountDownLatch.md)
+1. [【JUC 并发】CyclicBarrier](/Notes/JDK/JUC/【JUC%20并发】CyclicBarrier.md)
 
 > 整理不易，如果觉得写得还行，点个✨，谢谢大佬！
