@@ -485,5 +485,7 @@ public void selectForPage() {
 
 两种方式：`Pagehelper` 分页和自己实现，根据实际情况自己选用吧。
 
-1. [`Pagehelper` 分页示例代码](https://github.com/vanDusty/Mybatis-Home/tree/master/mybatis-case/mybatis-pagehelper)
+1. [`Pagehelper` 分页示例代码](https://github.com/vanDusty/Frame-Home/tree/master/mybatis-case/mybatis-pagehelper)
 1. [`Mybatis` 拦截器实现分页示例代码](https://github.com/vanDusty/Mybatis-Home/tree/master/mybatis-case/mybatis-pageable)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

@@ -295,4 +295,6 @@ List<UserInfoDO> selectForBind(String nickName);
 1. 推荐使用`CONCAT（）`函数或者 `bind` 的方式；
 1. 注意关键词中有`%`、`_`这些特殊字符如何处理。
 
-[Github 示例代码](https://github.com/vanDusty/mybatis-Home/blob/master/mybatis-case/mybatis-demo/src/test/java/cn/van/mybatis/demo/like/MybatisLikeTest.java)
+[Github 示例代码](https://github.com/vanDusty/Frame-Home/blob/master/mybatis-case/mybatis-demo/src/test/java/cn/van/mybatis/demo/like/MybatisLikeTest.java)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

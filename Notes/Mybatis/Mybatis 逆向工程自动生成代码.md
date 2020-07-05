@@ -180,6 +180,8 @@ modelName=UserInfoGenerator
 
 # 三、总结
 
-[Github 示例代码](https://github.com/vanDusty/Mybatis-Home/tree/master/mybatis-case/mybatis-generator)
+[Github 示例代码](https://github.com/vanDusty/Frame-Home/tree/master/mybatis-case/mybatis-generator)
 
 参考文章：[Mybatis代码生成器Mybatis-Generator使用详解](https://www.cnblogs.com/throwable/p/12046848.html)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

@@ -56,7 +56,7 @@ public interface TransactionDefinition {
     int ISOLATION_DEFAULT = -1;
     int ISOLATION_READ_UNCOMMITTED = 1;
     int ISOLATION_READ_COMMITTED = 2;
-    int ISOLATION_REPEATABLE_READ = 4;
+    int  = 4;
     int ISOLATION_SERIALIZABLE = 8;
     int TIMEOUT_DEFAULT = -1;
     int getPropagationBehavior();
@@ -185,4 +185,6 @@ public void delUserWithTransaction() {
 
 对于项目中需要使用到事务的地方，建议不要盲目使用 `Spring` 事务注解，尽量手动开启。
 
-[Spring 事务完整示例代码](https://github.com/vanDusty/Spring-Home/tree/master/spring-case/transaction-demo)
+[Spring 事务完整示例代码](https://github.com/vanDusty/Frame-Home/tree/master/spring-case/transaction-demo)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

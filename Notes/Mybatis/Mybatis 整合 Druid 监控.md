@@ -293,6 +293,8 @@ public class DruidController {
 
 ## 四、总结
 
-[Github 完整示例](https://github.com/vanDusty/mybatis-Home/tree/master/mybatis-case/mybatis-druid)
+[Github 完整示例](https://github.com/vanDusty/Frame-Home/tree/master/mybatis-case/mybatis-druid)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。
 
 参考文章：[Druid 问题文档](https://github.com/alibaba/druid/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)

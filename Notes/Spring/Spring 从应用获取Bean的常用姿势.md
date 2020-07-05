@@ -208,4 +208,6 @@ public void getApplicationContext() {
 }
 ```
 
-[Github 示例代码](https://github.com/vanDusty/Spring-Home/tree/master/spring-case/spring-demo)
+[Github 示例代码](https://github.com/vanDusty/Frame-Home/tree/master/spring-case/spring-demo)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

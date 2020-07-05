@@ -802,4 +802,6 @@ UserDTO doAndInfoToDto(UserDO userDO, UserInfoDO userInfoDO);
 
 具体性能，参考文章：[Java Bean Copy 性能大比拼](https://juejin.im/post/5c9d5cd1e51d455788281089)
 
-[Github 示例源码](https://github.com/vanDusty/Spring-Home/tree/master/spring-case/bean-copy)
+[Github 示例源码](https://github.com/vanDusty/Frame-Home/tree/master/spring-case/bean-copy)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

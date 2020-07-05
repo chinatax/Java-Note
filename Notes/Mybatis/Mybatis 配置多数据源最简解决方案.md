@@ -236,6 +236,8 @@ public void insertSlave() {
 
 如果你觉得：我只是想找一个简单的多数据支持而已，使用`AOP`配置多数据源有点小复杂，欢迎尝试该方式。
 
-[Github 示例源码](https://github.com/vanDusty/Mybatis-Home/tree/master/mybatis-case/multipledata-simple)
+[Github 示例源码](https://github.com/vanDusty/Frame-Home/tree/master/mybatis-case/multipledata-simple)
 
 参考文章：[Spring Boot(七)：Mybatis 多数据源最简解决方案](http://www.ityouknow.com/springboot/2016/11/25/spring-boot-multi-mybatis.html)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。

@@ -372,5 +372,8 @@ public void selectSlave() {
 
 相较于另一篇文章，该方式虽然配置麻烦，但是如果新增数据源，配置更简单。文中代码不全，文章代码，详见
 
-[Github 示例代码](https://github.com/vanDusty/Mybatis-Home/tree/master/mybatis-case/multipledata-demo)
+[Github 示例代码](https://github.com/vanDusty/Frame-Home/tree/master/mybatis-case/multipledata-demo)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。
+
 

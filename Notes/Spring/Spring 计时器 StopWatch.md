@@ -113,4 +113,7 @@ public void stopWatchDemo() throws InterruptedException {
 
 使用`Spring`提供的这个监视器，不仅可以省略大量的`System.currentTimeMillis()`及运算，而且它提供的`prettyPrint()`打印在日志里进行分析可以非常的直观。
 
-[Github 示例代码](https://github.com/vanDusty/Spring-Home/blob/master/spring-case/spring-demo/src/test/java/cn/van/spring/demo/StopWatchTest.java)
+[Github 示例代码](https://github.com/vanDusty/Frame-Home/blob/master/spring-case/spring-demo/src/test/java/cn/van/spring/demo/StopWatchTest.java)
+
+> 更多 `Java` 笔记，详见[【Java 知识笔记本】](https://github.com/vanDusty/Java-Note)，欢迎提供想法建议。
+
