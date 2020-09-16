@@ -96,7 +96,7 @@ java -version:查看JDK版本
 
  * 验证 `Maven` 安装是否成功**
 
-　　打开终端，输入 `mvn –v` 命令 查看 `Maven` 的相关信息，如下图所示：
+　　打开终端，输入 `mvn  –v` 命令 查看 `Maven` 的相关信息，如下图所示：
 
 　　![](https://img.dusty.vip/Note/20200831172507.png)
 
